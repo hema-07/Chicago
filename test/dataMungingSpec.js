@@ -5,7 +5,7 @@ readline = require("readline"),
 fs=require("fs"),
 
 
-convert = require("../js/cicagoCrimeHema");
+convert = require("../js/chicagoCrimeHema");
 
 
 
